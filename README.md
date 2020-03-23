@@ -1,4 +1,7 @@
 # vc-odt-mpa-theme
 
 some docs. ci/cd tests 2
-How to add frontend localization via admin UI 
+
+### Add Frontend Localization via Admin UI 
+
+[Add New Frontend Localization](/docs/add-frontend-localization.md)
