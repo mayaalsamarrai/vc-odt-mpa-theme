@@ -8,3 +8,5 @@ some docs. ci/cd tests 2
 
 ### Change Column Name
 [Change Column Name](/docs/change-columns-names.md)
+
+### Rename/Change/Fix misspelling of text labels via admin UI
