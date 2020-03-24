@@ -10,4 +10,4 @@ some docs. ci/cd tests 2
 [Change Column Name](/docs/change-columns-names.md)
 
 ### Rename/Change/Fix misspelling of text labels via admin UI
-[Rename/change/fix misspelling](rename-change-fix-misspelling.md)
+[Rename/change/fix misspelling](/docs/rename-change-fix-misspelling.md)
