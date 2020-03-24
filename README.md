@@ -11,3 +11,6 @@ some docs. ci/cd tests 2
 
 ### Rename/Change/Fix misspelling of text labels via admin UI
 [Rename/change/fix misspelling](/docs/rename-change-fix-misspelling.md)
+
+### Create a New Landing/Static Page 
+[Create New Landing/Static Page](/docs/create-new-page.md)
