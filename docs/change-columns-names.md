@@ -8,7 +8,7 @@ To change the name of the column, you should change the corresponding term in th
 1. In the opened blade (Themes list) select the 'current' theme (Activated in store);
 ![Current theme](media/screen-current-theme.png)
 
-1. Select the 'Locales' folder and then select the localization file (en.default.json), where you should to make the changes;
+1. Select the 'Locales' folder and then select the localization file (en.default.json), where you should make the changes;
 ![Select Locales](media/screen-locales-folder.png)
 
 1. In the json file find the tab name (ex, Payments), then find the 'columns' term;
