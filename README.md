@@ -14,3 +14,7 @@ some docs. ci/cd tests 2
 
 ### Create a New Landing/Static Page 
 [Create New Landing/Static Page](/docs/create-new-page.md)
+
+### Change columns order 
+[Change Columns Order](/docs/change-columns-order.md)
+### How to change footer 
