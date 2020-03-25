@@ -1,30 +1,39 @@
 # vc-odt-mpa-theme
 
-some docs. ci/cd tests 2
+## Content Management
 
-### Add New Frontend Localization via Admin UI 
+### Scenarios
+
+#### How to add new frontend localization via admin UI
 
 [Add New Frontend Localization](/docs/add-frontend-localization.md)
 
-### Change Column Name
+#### How to change a column name
+
 [Change Column Name](/docs/change-columns-names.md)
 
-### Rename/Change/Fix misspelling of text labels via admin UI
+#### How to rename/change/fix misspelling of text labels via admin UI
+
 [Rename/change/fix misspelling](/docs/rename-change-fix-misspelling.md)
 
-### Create a New Landing/Static Page 
+#### How to create a new landing/static Page
+
 [Create New Landing/Static Page](/docs/create-new-page.md)
 
-### Change columns order 
+#### How to change columns order
+
 [Change Columns Order](/docs/change-columns-order.md)
 
-### Change footer 
+### How to change the footer
+
 [Change Footer](/docs/change-footer.md)
 
-### Add/Delete/Modify Text Block 
+#### How to add/delete/modify Text Block
+
 [Add/delete/modify text block](/docs/add-delete-modify-textblock.md)
 
-### Add a Column to a Table Layout (if data exists in DB)
+#### How to add a column to a table layout (if data exists in DB)
+
 [Add Column to Layout](/docs/add-column-to-layout.md)
 
 
