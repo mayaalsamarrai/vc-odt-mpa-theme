@@ -24,3 +24,7 @@ some docs. ci/cd tests 2
 ### Add/Delete/Modify Text Block 
 [Add/delete/modify text block](/docs/add-delete-modify-textblock.md)
 
+### Add a Column to a Table Layout (if data exists in DB)
+[Add Column to Layout](/docs/add-column-to-layout.md)
+
+
