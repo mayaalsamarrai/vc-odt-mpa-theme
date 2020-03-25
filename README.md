@@ -17,4 +17,6 @@ some docs. ci/cd tests 2
 
 ### Change columns order 
 [Change Columns Order](/docs/change-columns-order.md)
-### How to change footer 
+
+### Change footer 
+[Change Footer](/docs/change-footer.md)
