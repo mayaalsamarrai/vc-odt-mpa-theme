@@ -20,3 +20,7 @@ some docs. ci/cd tests 2
 
 ### Change footer 
 [Change Footer](/docs/change-footer.md)
+
+### Add/Delete/Modify Text Block 
+[Add/delete/modify text block](/docs/add-delete-modify-textblock.md)
+
