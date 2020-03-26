@@ -24,7 +24,7 @@
 
 [Change Columns Order](/docs/change-columns-order.md)
 
-### How to change the footer
+#### How to change the footer
 
 [Change Footer](/docs/change-footer.md)
 
@@ -36,4 +36,4 @@
 
 [Add Column to Layout](/docs/add-column-to-layout.md)
 
-
+## Security 
