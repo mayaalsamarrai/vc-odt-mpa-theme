@@ -36,4 +36,10 @@
 
 [Add Column to Layout](/docs/add-column-to-layout.md)
 
-## Security 
+## Security
+
+### How to create a Sales role
+
+The Sales role should be created by the admin on Seller side 
+
+
