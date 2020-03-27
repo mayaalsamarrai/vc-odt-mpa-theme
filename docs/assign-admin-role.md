@@ -1,4 +1,4 @@
-# Assign Admin Role to a Contact
+# Assign Account Admin Role to a Contact
 
 The Sales person on Seller side can select an Organization assigned to him and assign an admin role to a contact within this Organization
 
