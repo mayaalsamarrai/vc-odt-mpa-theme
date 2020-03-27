@@ -43,4 +43,7 @@
 The Sales role should be created by the admin on Seller side 
 [Create a Sales Role with Permissions](/docs/create-sales-role.md)
 
+### How to create a Sales Account
+
+
 
