@@ -3,13 +3,13 @@
 1. In VC Platform go to ->Stores module->Select the ODT store;
 
 1. Under additional languages select de-DE and save the changes by clicking the 'Save' button;
-
+![Select additional language](media/screen-select-additional-language.png)
 1. Go to Content module->select the ODT store-> select Themes in ODT store->select the 'Default'  theme;
 
 1. In the opened blade (Manage theme assets)  select the 'locales 'folder;
 
 1. Upload the new locale file to 'locale' folder in the theme using an appropriate name (ex., 'de.json');
-
+![Upload asset](media/screen-upload-asset.png)
 1. **Important!** The file should be prepared in advance:
 
      1. Download the en.default.json in 'locales' folder;
@@ -21,3 +21,5 @@
 1. Restart the Storefront;
 
 1. Go to ODT URL with local segment adding (ex, https://dev-odt-public.azurewebsites.net/de-DE/). 
+
+![Language changed](media/screen-language-german.png)
