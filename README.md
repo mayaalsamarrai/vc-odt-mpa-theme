@@ -46,6 +46,20 @@ The Sales role should be created by the admin on Seller side
 ### How to create a Sales Account
 [Create Sales Account](/docs/create-sales-account.md)
 
-### Assign Admin Role to a Contact 
+### How to Assign Admin Role to a Contact
 
 [Assign Account Admin Role](/docs/assign-admin-role.md)
+
+## Properties
+
+### How to manage product properties
+
+[Manage Product Properties](/docs/how-to-manage-product-properties.md)
+
+### How to manage aggregation properties
+
+[Manage Aggregation Properties](/docs/manage-aggregation-properties.md)
+
+### How to manage product images
+
+[Manage Product Images](/docs/manage-product-images.png)
