@@ -1,6 +1,30 @@
 # vc-odt-mpa-theme
 
-## Content Management
+## Overview
+
+Organic digital transformation (ODT) portal is a customizable out-of-the-box business portal on top of Virto Commerce platform. Delivered as a part of Organic User Adoption Pack that includes the Virto Commerce digital platform, ODT portal and Organic User Adoption methodology.
+
+1. Fits for organic user adoption scenarios
+1. Designed for agile delivery of e-commerce services
+1. Options to customize the layout without development
+
+User adoption pack aims the following audience:
+
+1. Companies who run their first B2B e-commerce project;
+
+1. Companies with unsuccessful B2B eCommerce implementation projects in the past.
+
+## Manage Products
+
+## Manage Orders
+
+## Manage Payments
+
+## Manage Invoices
+
+## Manage Users
+
+## Manage Content
 
 ### Scenarios
 
