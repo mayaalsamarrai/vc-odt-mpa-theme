@@ -39,8 +39,9 @@
      1. Switch on/off:
          1. Dictionary
          1. Multivalue: if switched on, the user can specify more than one property value.
-         1. Multilanguage
-         1. Hidden
+         1. Multilanguage- if witched on, the user can add a value in more than one language;
+         ![Multilanguage value](media/screen-multilanguage-value.png)
+         1. Hidden- if switched on, the property will not be displayed on the Storefront;
     1. 'Applies to' (select from drop down): 
          1. Product
          1. Category
