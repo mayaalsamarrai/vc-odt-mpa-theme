@@ -5,7 +5,7 @@
 1. Go to More->Catalog->Categories and items-> select the product and open Product details
 1. Select the 'Images' widget
 1. The system will display all product images that were uploaded before
-1. Every image has priority. The lower is number, the higher is the priority. Ex., image with priority '0' the the image with the highest priority and this image is displayed as the main one.
+1. Every image has a priority. The lower is the number, the higher is the priority. Ex., image with priority '0' is the image with the highest priority and this image will be displayed as the main one.
 
 ![Images](media/screen-images.png)
 
