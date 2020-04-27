@@ -54,7 +54,7 @@ The Sales role should be created by the admin on Seller side
 
 ### How to manage product properties
 
-[Manage Product Properties](/docs/how-to-manage-product-properties.md)
+[Manage Product Properties](/docs/manage-product-properties.md)
 
 ### How to manage aggregation properties
 
