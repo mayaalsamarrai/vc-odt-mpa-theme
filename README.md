@@ -62,4 +62,4 @@ The Sales role should be created by the admin on Seller side
 
 ### How to manage product images
 
-[Manage Product Images](/docs/manage-product-images.png)
+[Manage Product Images](/docs/manage-product-images.md)
